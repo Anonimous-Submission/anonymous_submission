@@ -23,7 +23,7 @@ The images in the folder are generated with [VQGAN+CLIP](https://arxiv.org/abs/2
 
 *Hyperparameters*: 
 
-- manual random seed values were chosen randomely
+- manual random seed values were chosen randomly
 - number of inference steps vary from 50 to 400, were chosen according to [guidelines](https://www.cs.columbia.edu/~chilton/web/my_publications/LiuPromptsAIGenArt_CHI2022.pdf) as well as by trial and error
 
 The values were randomely mixed and used for image generation. The information about parameters is given in the names of images *.png as follows:
